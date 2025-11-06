@@ -13,11 +13,6 @@ const Index = () => {
       {/* Main Content */}
       <main className="container max-w-3xl mx-auto px-6 py-12">
         <article className="space-y-8">
-          {/* Date */}
-          <time className="text-sm text-muted-foreground uppercase tracking-wider">
-            November 6, 2025
-          </time>
-
           {/* Title */}
           <h1 className="text-5xl md:text-6xl font-serif font-bold text-foreground leading-tight">
             Important Announcement
