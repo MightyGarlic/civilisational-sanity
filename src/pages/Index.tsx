@@ -241,7 +241,7 @@ const Index = () => {
       <footer className="border-t border-border mt-20">
         <div className="container max-w-3xl mx-auto px-6 py-8">
           <p className="text-sm text-muted-foreground text-center">
-            Easter Egg!
+            Our Library List includes <i>Seeing Systems</i> (Barry Oshry), <i>Inadequate Equilibria: Where and How Civilizations Get Stuck </i>(Eliezer Yudkowsky), <i>Fair Play</i> (Eve Rodsky), <i>The Gulag Archipelago</i> (Aleksandr Solzhenitsyn), <i>Simple Sabotage Field Manual (CIA)</i> 
           </p>
         </div>
       </footer>
