@@ -7,7 +7,7 @@ const Index = () => {
       <main className="container max-w-4xl mx-auto py-12 px-6">
         <article className="space-y-8">
           {/* Title */}
-          <h1 className="text-xl md:text-4xl font-bold text-foreground leading-tight">
+          <h1 className="text-4xl md:text-4xl font-bold text-foreground leading-tight">
             Applications Open for a Weekend Exploring Civilisational Sanity
           </h1>
 
